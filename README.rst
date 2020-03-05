@@ -74,27 +74,3 @@ nginx由于出色的性能，在世界范围内受到了越来越多人的关注
 团队成员
 ++++++++++++
 
-叔度 (http://blog.zhuzhaoyuan.com)
-
-雕梁 (http://www.pagefault.info)
-
-文景 (http://yaoweibin.cn)
-
-李子 (http://blog.lifeibo.com)
-
-卫越 (http://blog.sina.com.cn/u/1929617884)
-
-袁茁 (http://yzprofile.me)
-
-小熊 (http://dinic.iteye.com)
-
-吉兆 (http://jizhao.blog.chinaunix.net)
-
-静龙 (http://blog.csdn.net/fengmo_q)
-
-竹权 (http://weibo.com/u/2199139545)
-
-公远 (http://100continue.iteye.com/)
-
-布可 (http://weibo.com/sifeierss)
-
